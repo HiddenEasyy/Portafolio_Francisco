@@ -1,0 +1,10 @@
+site_name: "Francisco - Portafolio"
+site_description: "Portafolio técnico y proyectos de Francisco"
+repo_url: https://github.com/HiddenEasyy/Portafolio_Francisco
+site_author: "Francisco"
+nav:
+  - Home: index.md
+  - Projects:
+    - Dashboard Salud: projects/dashboard.md
+theme:
+  name: material
