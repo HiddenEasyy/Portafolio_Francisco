@@ -1,0 +1,23 @@
+# Virtual env
+.venv/
+env/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Data (keep out of git for privacy)
+data/
+
+# Jupyter
+.ipynb_checkpoints/
