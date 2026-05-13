@@ -40,7 +40,4 @@ Capturas
 
 Incluye las imágenes en el repositorio (`assets/`) que pueden mostrarse aquí o en `projects/Dashboard_Salud/screenshots/`.
 
-Notas
---
 
-Si quieres que reestructure el repositorio para mover este proyecto a `projects/Dashboard_Salud/` lo puedo hacer (esto cambiará rutas relativas). De momento mantengo la estructura actual y documento cómo ejecutarlo.

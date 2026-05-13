@@ -2,7 +2,7 @@
 
 Bienvenido a mi portafolio. Aquí encontrarás proyectos representativos, descripciones y cómo ejecutarlos localmente.
 
-Contacto: [tu-email@ejemplo.com]
+Contacto: [ffonseca@uabc.edu.mx]
 
 Proyectos:
 
